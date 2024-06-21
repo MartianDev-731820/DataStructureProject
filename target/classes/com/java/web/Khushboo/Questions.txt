@@ -1,5 +1,12 @@
+Day 1 (21 June 2024)
+
 Display Hi World 
 Display Bye World
 Display How Are you
 Display I am fine !
 Display And you ?
+
+
+Day 2 (22 June 2024)
+
+
